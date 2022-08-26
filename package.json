@@ -1,0 +1,22 @@
+{
+  "name": "solsun",
+  "version": "1.0.0",
+  "description": "Soslsun is the destinatrion to be",
+  "main": "solsun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "solsun_Website"
+  },
+  "keywords": [
+    "L"
+  ],
+  "author": "Linda Dube",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express3-handlebars": "^0.5.2"
+  }
+}
